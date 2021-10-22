@@ -1,0 +1,44 @@
+
+table {  }
+.outer {}
+td {}
+img { border: 0; }
+
+.bnr img {width:  100%; max-width:  600px;}
+
+.mid1 {}
+.mid1 td {padding:  0 25px; }
+.mid1 h2 {text-transform: uppercase; text-align: center; font-size:  30px; line-height: 100%;}
+.mid1 h2 .span1 {display: block; font-size: 65px; line-height: 100%; font-weight:  900;}
+.mid1 h2 .span2 {font-size: 40px; line-height: 100%;}
+
+.shop {text-align: center;}
+.shop-con .column {margin:  0 10px; display: inline-block;}
+.shop a {display: block; background: #acd5c0; text-align: center; font-family: Karla, sans-serif; color:  #464646; text-decoration: none; padding:  10px 24px; font-weight: 500; font-size:  14px; margin:  0 auto; margin: 15px auto; border: 2px solid #96827a; max-width: 150px; line-height: 100%; }
+.shop a span {line-height: 100%;}
+.shop img {max-width:  250px; width:  100%;}
+
+.mid2 {text-align: center; background: #eec8c5; }
+.mid2 .three-columns {}
+.mid2 .three-columns .column {display: inline-block;}
+
+.mid2 .mid2-con {padding:  25px;}
+.mid2 h2 {font-family: "Times New Roman"; font-weight: normal; font-style: italic;  font-size: 20px;}
+.mid2 img {width:  100%; max-width:  150px; margin: 5px;}
+
+.btm1 {}
+.btm1-con {padding:  10px 0;}
+.btm1 a {display: block; width:  150px; background: #acd5c0; height: 20px; text-align: center; font-family: Karla, sans-serif; color:  #464646; text-decoration: none; padding:  10px; font-weight: 500; font-size:  20px; margin:  0 auto; margin: 15px auto; border: 2px solid #96827a; }
+.btm1 a:before {position: absolute; display: block;}
+
+.footer-con {text-align: center; padding:  10px; border-top:  2px solid #96827a; border-bottom: 2px solid #96827a; }
+.footer-con a {display: inline-block; margin:  0 7px;}
+.footer-con img {width:  100%; max-width: 40px;}
+
+@media screen and (max-width:  600px) {
+
+}
+
+@media screen and (max-width:  400px) {
+
+} 

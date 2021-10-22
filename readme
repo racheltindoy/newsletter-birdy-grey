@@ -1,0 +1,54 @@
+Email Exercise
+
+Please create an HTML page resembling a marketing email, using html and css. This is an email that the store sends to customers, notifying them of a sale.
+
+The brand you are creating it for is called Birdy Grey and they sell bridesmaid dresses. 
+This is their website: https://www.birdygrey.com/
+
+Please follow these instructions:
+
+The email needs to look appealing and have the same design language as the website.
+The email needs to be mobile-responsive. 
+The text for the email is as follows:
+2020 is here and we’re having a flash sale!
+All sale items are 50% off! Hurry up!
+SHOP NOW
+For inspiration, check out these beautiful wedding looks:
+{image gallery - you can choose the number of images and layout}
+Love, Birdy Grey.
+Feel free to add a header and/or footer for the email.
+Feel free to use assets found on the store and on Birdy Grey’s social accounts. This includes logo, images, icons, fonts, color codes, etc.
+We recommend subscribing to a mailing list on a few websites to see what these emails usually look like and get ideas.
+
+Good luck!
+
+Second exercise (Gorilla) - add this instruction “Make it mobile responsive using flexbox or grid.”
+
+
+#e6b6b0 - lightpink
+#e6b6b0 - pink
+#acd5c0 - lg
+
+
+/*#container {width: 100%; max-width: 600px; background: #ddd; margin:  0 auto;}
+#header {margin-bottom: 25px;}
+.logo {background: #eec8c5; width: 100%; max-width: 250px; margin:  0 auto; padding:  14px 30px;}
+.logo img {width:  100%; max-width: 100%;}
+#banner {background: #eec8c5; padding: 0 40px; display: flex; justify-content: space-around; align-items: center; }
+#banner img {width:  100%; max-width: 200px;}
+#banner h2 {color:  #fff; text-align: center;}
+#banner h2 .span1 {display: block; font-size:  45px;}
+#banner h2 .span2 {display: block; font-size:  45px;}*/
+
+
+
+
+
+Create the following page using HTML and CSS
+● Choose colors, fonts and a header image to make the page aesthetically
+appealing and stylized.
+● The page should be fully responsive
+● The form does not need to actually submit the information inserted
+● Make sure to use 2 separate files - 1 for HTML and 1 for CSS
+● Some things can be done in more than one way - try thinking about the most
+efcient way to achieve the desired result
